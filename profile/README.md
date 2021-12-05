@@ -2,6 +2,8 @@
 
 Search repositories by categories with these topic keywords: computers, consoles, arcades, others, demistify, deca
 
+Discussion group on [Telegram group](https://t.me/Deca_Max10_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
+
 Have fun 🍿 
 
 <!--
