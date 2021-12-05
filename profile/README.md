@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Search repositories by categories with these keywords: computers, consoles, arcades, others, demistify, deca
+Search repositories by categories with these topic keywords: computers, consoles, arcades, others, demistify, deca
+
+Have fun 🍿 
 
 <!--
 
@@ -12,3 +14,4 @@ Search repositories by categories with these keywords: computers, consoles, arca
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
