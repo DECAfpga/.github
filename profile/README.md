@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Search repositories by categories with these keywords: computers, consoles, arcades, others, demistify, deca
+
 <!--
 
 **Here are some ideas to get you started:**
