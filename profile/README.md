@@ -1,6 +1,6 @@
 Search repositories by categories with these topic keywords: computers, consoles, arcades, others, demistify, deca
 
-Repositories with 3pins topic need old Mister SDRAMs with the 3 extra pins
+Repositories with the 3pins topic need old Mister SDRAMs with the 3 extra pins
 
 Discussion group on [Telegram group](https://t.me/Deca_Max10_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
 
