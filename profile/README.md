@@ -1,7 +1,7 @@
 Search repositories by categories with these topic keywords: computers, consoles, arcades, others, demistify, deca
 
-Repositories with the '3pins' topic need old Mister SDRAMs with the 3 extra pins
-Repositories with the 'mergefork' topic are just a mirror, and need to be keep up-to-date with the main repository.
+Repositories with the '3pins' topic need old Mister SDRAMs with the 3 extra pins.
+Repositories with the 'mergefork' topic are just a mirror and need to be keep up-to-date with the upstream repository.
 
 Discussion group on [Telegram group](https://t.me/Deca_Max10_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
 
