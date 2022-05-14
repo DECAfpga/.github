@@ -6,6 +6,8 @@ Repositories with the 'cape' topic work ok with the [Deca Retro cape](https://gi
 
 Repositories with the 'mergefork' topic are just a mirror and need to be keep up-to-date with the upstream repository.
 
+Other topics for demistified boards include: cyc1000, sockit
+
 Discussion group on [Telegram group](https://t.me/Deca_Max10_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
 
 Have fun 🍿 
