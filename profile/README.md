@@ -1,17 +1,12 @@
 Search repositories by categories with these topic keywords: computers, consoles, arcades, others, demistify, deca, 3pins, mergefork, cape
 
-Repositories with the '3pins' topic only work with old Mister SDRAMs with the 3 extra pins.
+Repositories with the '3pins' topic only work with old Mister SDRAM modules with the 3 extra pins.</br>
+Repositories with the 'cape' topic work Ok with the [Deca Retro cape](https://github.com/somhi/DECA_retro_cape_2).</br>
+Repositories with the 'mergefork' topic are just a mirror and need to be up-to-date with the upstream repository.
 
-Repositories with the 'cape' topic work ok with the [Deca Retro cape](https://github.com/somhi/DECA_retro_cape_2).
-
-Repositories with the 'mergefork' topic are just a mirror and need to be keep up-to-date with the upstream repository.
-
-Other topics for demistified boards include: cyc1000, sockit
+Other topics for DeMiSTified boards include: cyc1000, sockit
 
 Discussion group on [Telegram group](https://t.me/Deca_Max10_FPGA) & [Discord channel](https://discord.gg/YDdmtwh) 
-
-Have fun 🍿 
-
 <!--
 
 **Here are some ideas to get you started:**
