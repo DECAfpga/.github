@@ -2,7 +2,7 @@ Search repositories by categories with these topic keywords: computers, consoles
 
 Repositories with the '3pins' topic only work with old Mister SDRAM modules with the 3 extra pins.</br>
 Repositories with the 'cape' topic work Ok with the [Deca Retro cape](https://github.com/somhi/DECA_retro_cape_2).</br>
-Repositories with the 'mergefork' topic are just a mirror and need to be up-to-date with the upstream repository.
+Repositories with the 'mergefork' topic are just a mirror and need to be up-to-date with the upstream repository.</br>
 Repositories with the 'bram' topic do not require any external memory module.
 
 Other topics for DeMiSTified boards include: cyc1000, sockit
